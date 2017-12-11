@@ -1,0 +1,6 @@
+C:\Users\chandu\Desktop\GOT\GameOfThrones\IronThrone\bin\x64\Debug\IronThrone.exe.config
+C:\Users\chandu\Desktop\GOT\GameOfThrones\IronThrone\bin\x64\Debug\IronThrone.exe
+C:\Users\chandu\Desktop\GOT\GameOfThrones\IronThrone\bin\x64\Debug\IronThrone.pdb
+C:\Users\chandu\Desktop\GOT\GameOfThrones\IronThrone\obj\x64\Debug\IronThrone.csprojResolveAssemblyReference.cache
+C:\Users\chandu\Desktop\GOT\GameOfThrones\IronThrone\obj\x64\Debug\IronThrone.exe
+C:\Users\chandu\Desktop\GOT\GameOfThrones\IronThrone\obj\x64\Debug\IronThrone.pdb
